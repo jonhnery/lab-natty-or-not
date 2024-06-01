@@ -15,8 +15,8 @@ D-ID
 - Criado vídeo na plataforma do D-ID.
 
 ## 🚀 Resultados
-[Vídeo Criado][https://studio.d-id.com/share?id=8d60530581c0c96f0a7b4893f4819d89&utm_source=copy]
 
+[Video Criado](https://studio.d-id.com/share?id=8d60530581c0c96f0a7b4893f4819d89&utm_source=copy)
 
 ## 💭 Reflexão 
 Muito interessante você poder em poucos cliques criar um vídeo com informações tão relevantes.
