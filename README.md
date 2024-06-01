@@ -32,6 +32,6 @@ Muito interessante você poder em poucos cliques criar um vídeo com informaçõ
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-[Video Criado]([https://base10.vc/post/generative-ai-mission-critical/](https://studio.d-id.com/share?id=8d60530581c0c96f0a7b4893f4819d89&utm_source=copy))
+[Video Criado]([https://base10.vc/post/generative-ai-mission-critical/](https://studio.d-id.com/share?id=8d60530581c0c96f0a7b4893f4819d89&utm_source=copy)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
